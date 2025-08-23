@@ -21,7 +21,7 @@ A conversational chatbot for quick, AI-powered health advice. Built with Streaml
 bash
 git clone https://github.com/your-username/global_ai_hackathon.git
 cd ai-symptom-checker
-
+video link :- https://drive.google.com/file/d/1tMVB3QxvHSQ6u8OPvPiPzlSGB54-yKEe/view?usp=sharing
 2. Install dependencies:
 
 bash
