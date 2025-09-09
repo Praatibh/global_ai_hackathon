@@ -14,6 +14,8 @@ A conversational chatbot for quick, AI-powered health advice. Built with Streaml
 
     Trust & privacy first: No user data stored
 
+Access it here -> https://ai-symptom-checker-ui3d.onrender.com/
+
 🛠️ Setup & Running
 
 1. Clone this repository:
