@@ -3,6 +3,7 @@ import folium
 from streamlit_folium import st_folium
 import google.generativeai as genai
 from streamlit_geolocation import streamlit_geolocation
+import os
 
 def get_ai_response(api_key, prompt, lang):
     """
@@ -40,7 +41,7 @@ def main():
     st.sidebar.title("Options")
 
     # Hardcoded API key - replace with your actual key!
-    api_key = "your_api_key"
+    api_key = os.environ["api_key"]
 
     lang = st.sidebar.selectbox("Language", ["en", "es"])
 
